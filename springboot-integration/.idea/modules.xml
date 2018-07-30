@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mm-entity/mm-entity.iml" filepath="$PROJECT_DIR$/mm-entity/mm-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-repo/mm-repo.iml" filepath="$PROJECT_DIR$/mm-repo/mm-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-service/mm-service.iml" filepath="$PROJECT_DIR$/mm-service/mm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm-web/mm-web.iml" filepath="$PROJECT_DIR$/mm-web/mm-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-cross-orgin/springboot-cross-orgin.iml" filepath="$PROJECT_DIR$/../springboot-cross-orgin/springboot-cross-orgin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-data-jpa/springboot-data-jpa.iml" filepath="$PROJECT_DIR$/../springboot-data-jpa/springboot-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-data-jpa-save/springboot-data-jpa-save.iml" filepath="$PROJECT_DIR$/../springboot-data-jpa-save/springboot-data-jpa-save.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-error-controller/springboot-error-controller.iml" filepath="$PROJECT_DIR$/../springboot-error-controller/springboot-error-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-error-handler/springboot-error-handler.iml" filepath="$PROJECT_DIR$/../springboot-error-handler/springboot-error-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-externalized-configuration/springboot-externalized-configuration.iml" filepath="$PROJECT_DIR$/../springboot-externalized-configuration/springboot-externalized-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/../springboot-helloworld/springboot-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-integration.iml" filepath="$PROJECT_DIR$/springboot-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/../springboot-mybatis/springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-mybatis-annotation/springboot-mybatis-annotation.iml" filepath="$PROJECT_DIR$/../springboot-mybatis-annotation/springboot-mybatis-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-mybatis-common/springboot-mybatis-common.iml" filepath="$PROJECT_DIR$/../springboot-mybatis-common/springboot-mybatis-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-nginx/springboot-nginx.iml" filepath="$PROJECT_DIR$/../springboot-nginx/springboot-nginx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-schedule-task/springboot-schedule-task.iml" filepath="$PROJECT_DIR$/../springboot-schedule-task/springboot-schedule-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-swagger2/springboot-swagger2.iml" filepath="$PROJECT_DIR$/../springboot-swagger2/springboot-swagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-swagger2-auto-close/springboot-swagger2-auto-close.iml" filepath="$PROJECT_DIR$/../springboot-swagger2-auto-close/springboot-swagger2-auto-close.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-web-jsp/springboot-web-jsp.iml" filepath="$PROJECT_DIR$/../springboot-web-jsp/springboot-web-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-web-thymeleaf/springboot-web-thymeleaf.iml" filepath="$PROJECT_DIR$/../springboot-web-thymeleaf/springboot-web-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-web-thymeleaf-enhance/springboot-web-thymeleaf-enhance.iml" filepath="$PROJECT_DIR$/../springboot-web-thymeleaf-enhance/springboot-web-thymeleaf-enhance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-webjars/springboot-webjars.iml" filepath="$PROJECT_DIR$/../springboot-webjars/springboot-webjars.iml" />
+    </modules>
+  </component>
+</project>

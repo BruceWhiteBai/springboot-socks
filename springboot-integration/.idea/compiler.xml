@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mm-entity" />
+        <module name="mm-repo" />
+        <module name="mm-service" />
+        <module name="mm-web" />
+        <module name="springboot-data-jpa" />
+        <module name="springboot-data-jpa-save" />
+        <module name="springboot-error-controller" />
+        <module name="springboot-error-handler" />
+        <module name="springboot-externalized-configuration" />
+        <module name="springboot-helloworld" />
+        <module name="springboot-mybatis" />
+        <module name="springboot-mybatis-annotation" />
+        <module name="springboot-mybatis-common" />
+        <module name="springboot-nginx" />
+        <module name="springboot-schedule-task" />
+        <module name="springboot-swagger2" />
+        <module name="springboot-swagger2-auto-close" />
+        <module name="springboot-web-jsp" />
+        <module name="springboot-web-thymeleaf" />
+        <module name="springboot-web-thymeleaf-enhance" />
+        <module name="springboot-webjars" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mm-entity" target="1.6" />
+      <module name="mm-repo" target="1.6" />
+      <module name="mm-service" target="1.6" />
+      <module name="mm-web" target="1.6" />
+      <module name="springboot-cross-orgin" target="1.5" />
+      <module name="springboot-data-jpa" target="1.8" />
+      <module name="springboot-data-jpa-save" target="1.8" />
+      <module name="springboot-error-controller" target="1.8" />
+      <module name="springboot-error-handler" target="1.8" />
+      <module name="springboot-externalized-configuration" target="1.8" />
+      <module name="springboot-helloworld" target="1.8" />
+      <module name="springboot-integration" target="1.6" />
+      <module name="springboot-mybatis" target="1.8" />
+      <module name="springboot-mybatis-annotation" target="1.8" />
+      <module name="springboot-mybatis-common" target="1.8" />
+      <module name="springboot-nginx" target="1.8" />
+      <module name="springboot-schedule-task" target="1.8" />
+      <module name="springboot-swagger2" target="1.8" />
+      <module name="springboot-swagger2-auto-close" target="1.8" />
+      <module name="springboot-web-jsp" target="1.8" />
+      <module name="springboot-web-thymeleaf" target="1.8" />
+      <module name="springboot-web-thymeleaf-enhance" target="1.8" />
+      <module name="springboot-webjars" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

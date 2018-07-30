@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../springboot-web-jsp" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-cross-orgin/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-data-jpa-save/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-error-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-error-handler/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-externalized-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-mybatis-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-mybatis-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-nginx/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-schedule-task/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-swagger2-auto-close/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-web-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-web-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-web-thymeleaf-enhance/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-webjars/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
